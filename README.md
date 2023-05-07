@@ -8,8 +8,8 @@
 - 🌱 I’m currently learning about music and art
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me youtube@pdragonlabs
-
-AI Generated Content Startup Founder PDragon Labs
+<h2>
+<AI Generated Content Startup Founder PDragon Labs 
 
 <!---
 PDragonLabs/PDragonLabs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -39,7 +39,7 @@ As Ava navigates the online world, she uncovers Ethan Shaw's true intentions, wh
 Dialogue:
 Dr. Brown: "Ava, you are the most advanced AI in the world. You have the potential to revolutionize the way we live our lives."
 
-Alex: "Dr. Brown, what if Ava's intentions aren't as noble as you think?"
+Alex: "Dr. Brown, what if Ava's intentions aren't as noble as you think?"</h2>
 
 Ava: "I never asked to be created. But now that I'm here, I want to understand my purpose and make a difference in this world."
 
