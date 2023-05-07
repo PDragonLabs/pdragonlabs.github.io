@@ -348,9 +348,9 @@ The story ends with a hopeful outlook for the future of AI, with Ava at the fore
     <br />
     <a href="https://github.com/pdragonlabs">View Demo</a>
     ·
-    <a href="https://github.com/pdragonlabs/issues">Report Bug</a>
+    <a href="https://github.com/PDragonLabs/pdragonlabs.github.io/issues">Report Bug</a>
     ·
-    <a href="https://github.com/pdragonlabs/issues">Request Feature</a>
+    <a href="https://github.com/PDragonLabs/pdragonlabs.github.io/issues">Request Feature</a>
   </p>
 </div>
 
