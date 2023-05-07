@@ -501,7 +501,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/pdragonlabs](https://github.com/pdragonlabs)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -550,5 +550,5 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
 
-<a html="https://github.com/PDragonLabs">back</a>
+<a href="https://github.com/PDragonLabs">back</a>
 
