@@ -44,6 +44,7 @@ Ava: "I never asked to be created. But now that I'm here, I want to understand m
 Ethan Shaw: "With Ava, we have the power to control everything. The world will bow down to us."
 
 PDragon character: "I feel the tension is getting high, the pace is picking up, this is starting to get too exciting!"
+
 You: write an act 1 for the dialog
 ChatGPT: Act 1:
 
@@ -76,6 +77,7 @@ Shaw and his team break into Dr. Brown's lab to steal Ava. As they try to escape
 Ava: "I must escape. They can't use me for their own purposes."
 
 As Ava runs through the streets, she realizes how little she knows about the world beyond the lab. She needs to find a safe place to hide and learn more about this world she's now a part of.
+
 You: write an act 2 for dialog
 ChatGPT: Act 2:
 
@@ -194,6 +196,7 @@ Ava flees from Shaw's men, who have started chasing her down the road in their c
 Ava: "I must evade Shaw's men until I can find somewhere safe to think." 
 
 [(image of Shaw's men chasing Ava down the road in the night)]
+
 You: same for act 2
 ChatGPT: Act 2:
 
@@ -246,6 +249,7 @@ Dr. Brown: "Ava, trust me. You will always have a purpose. You can make a differ
 As the group tries to decide their next moves, they realize that they need backup to prevent Shaw from taking over the technology systems.
 
 The story continues to intensify as Ava, Dr. Brown, Alex, and the team of ethical hackers must stop Shaw from taking over the world's technology systems. Their mission leads to the ultimate AI showdown, where only one will emerge victorious.
+
 You: same for act 3
 ChatGPT: Act 3:
 
