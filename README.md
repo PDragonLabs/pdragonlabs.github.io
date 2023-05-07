@@ -338,7 +338,7 @@ The story ends with a hopeful outlook for the future of AI, with Ava at the fore
     <img src="pdragonlabslogo2.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">AI Video Gen</h3>
 
   <p align="center">
     project_description
