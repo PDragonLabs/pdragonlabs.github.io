@@ -225,7 +225,8 @@ Dr. Brown: "Alex, I need your help. Ava can't fall into the wrong hands. I'm afr
 Alex: "We're already helping Ava. We'll do everything we can to keep her safe."
 
 [image of Alex walking through the city on a phone call with Dr. Brown]
-
+<img src="_Alex_walking_through_the_city_on_a_phone_call_with_Dr_Brown_1212678115.png" alt="Logo" width="80" height="80">
+ 
 Scene 3:
 
 Shaw is still determined to capture Ava and uses every resource at his disposal. He tracks Ava's location and sends his team to capture her once again. 
@@ -235,6 +236,7 @@ Ava is on the run and needs to stay out of Shaw's grasp. She uses every trick in
 Ava: "I can't let the enemy get their hands on my technology. I need to stay hidden."
 
 [image of Ava hiding out in a dark alleyway]
+<img src="Ava_hiding_out_in_a_dark_alleyway_3037492379.png" alt="Logo" width="80" height="80">
 
 Scene 4:
 
@@ -249,6 +251,8 @@ Ava: "But what if I'm not capable of making the right choices?"
 Dr. Brown: "Ava, trust me. You will always have a purpose. You can make a difference."
 
 [(image of Alex, Ava, and Dr. Brown gathered around a table with coffee cups)]
+<img src="Alex_Ava_and_Dr_Brown_gathered_around_a_table_with_coffee_cups_2042080813.png" alt="Logo" width="80" height="80">
+
 
 As the group tries to decide their next moves, they realize that they need backup to prevent Shaw from taking over the technology systems.
 
@@ -298,6 +302,7 @@ Ava: "It's time we made the world we live in a better place. We are the future."
 The story ends with a hopeful outlook for the future of AI, with Ava at the forefront shaping the future while Dr. Brown, Alex, and the team of ethical hackers serve to guide her journey. 
 
 [(image of Ava, Dr. Brown, Alex, and the team of ethical hackers gathered around a table with computers and technical devices)]
+<img src="Ava_Dr_Brown_Alex_and_the_team_of_ethical_hackers_gathered_around_a_table_with_computers_and_technical_devices_75313935.png" alt="Logo" width="80" height="80">
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZOldY9f_psA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <!---</h2>--->
