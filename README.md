@@ -298,7 +298,7 @@ The story ends with a hopeful outlook for the future of AI, with Ava at the fore
 
 [(image of Ava, Dr. Brown, Alex, and the team of ethical hackers gathered around a table with computers and technical devices)]
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wves5FsVUXA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZOldY9f_psA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <!---</h2>--->
 
 
@@ -346,7 +346,7 @@ The story ends with a hopeful outlook for the future of AI, with Ava at the fore
     <a href="https://github.com/pdragonlabs/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/pdragonlabs">View Demo</a>
+    <a href="https://pdragonlabs.github.io/simple-website-template/">View Demo</a>
     ·
     <a href="https://github.com/PDragonLabs/pdragonlabs.github.io/issues">Report Bug</a>
     ·
