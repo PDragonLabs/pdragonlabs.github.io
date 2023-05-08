@@ -307,8 +307,10 @@ The story ends with a hopeful outlook for the future of AI, with Ava at the fore
 
 [(image of Ava, Dr. Brown, Alex, and the team of ethical hackers gathered around a table with computers and technical devices)]<br/>
 <img src="Ava_Dr_Brown_Alex_and_the_team_of_ethical_hackers_gathered_around_a_table_with_computers_and_technical_devices_75313935.png" alt="Logo" width="500" height="300">
+<br /><br /><br /><br /><br />
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZOldY9f_psA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/ZOldY9f_psA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+<br />
 <!---</h2>--->
 
 
