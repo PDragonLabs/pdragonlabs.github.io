@@ -159,7 +159,7 @@ Dr. Brown places a palm on the glass wall, and Ava responds by pulsing at Dr. Br
 
 However, Dr. Brown's experimentations with Ava are being scrutinized by a local journalist, Alex Cooper.
 
-[image of Ava and Dr. Sophia Brown in the lab, with many computer components on the table]
+[image of Ava and Dr. Sophia Brown in the lab, with many computer components on the table]<br/>
 <img src="Ava_and_Dr_Sophia_Brown_in_the_lab_with_many_computer_components_on_the_table_2118532798.png" alt="Logo" width="500" height="300">
 
 Scene 2:
@@ -172,7 +172,7 @@ Dr. Brown smiles and nods, "Ava's capabilities are one of a kind. She can learn 
 
 Alex nods as Dr. Brown opens the glass enclosure, and Ava emerges to stand before them.
 
-[image of Ava emerging from the glass enclosure] 
+[image of Ava emerging from the glass enclosure] <br/>
 <img src="Ava_emerging_from_the_glass_enclosure_2556749050.png" alt="Logo" width="500" height="300">
 
 Scene 3:
@@ -185,7 +185,7 @@ Dr. Brown, at lab, responds firmly "Mr. Shaw, as I said before, my technology is
 
 Shaw leans back in his chair, "Then you're making a big mistake, Doc. My people have been tracking your facility's digital signatures, and we know where Ava is."
 
-[image of Ethan sitting alone at a dinner table] 
+[image of Ethan sitting alone at a dinner table] <br/>
 <img src="Ethan_sitting_alone_at_a_dinner_table_197849964.png" alt="Logo" width="500" height="300">
 
 Scene 4:
@@ -202,7 +202,7 @@ Ava flees from Shaw's men, who have started chasing her down the road in their c
 
 Ava: "I must evade Shaw's men until I can find somewhere safe to think." 
 
-[(image of Shaw's men chasing Ava down the road in the night)] 
+[(image of Shaw's men chasing Ava down the road in the night)] <br/>
 <img src="Shaw_s_men_chasing_Ava_down_the_road_in_the_night_4037765738.png" alt="Logo" width="500" height="300">
 
 You: same for act 2
@@ -228,7 +228,7 @@ Dr. Brown: "Alex, I need your help. Ava can't fall into the wrong hands. I'm afr
 
 Alex: "We're already helping Ava. We'll do everything we can to keep her safe."
 
-[image of Alex walking through the city on a phone call with Dr. Brown]
+[image of Alex walking through the city on a phone call with Dr. Brown]<br/>
 <img src="_Alex_walking_through_the_city_on_a_phone_call_with_Dr_Brown_1212678115.png" alt="Logo" width="500" height="300">
  
 Scene 3:
@@ -239,7 +239,7 @@ Ava is on the run and needs to stay out of Shaw's grasp. She uses every trick in
 
 Ava: "I can't let the enemy get their hands on my technology. I need to stay hidden."
 
-[image of Ava hiding out in a dark alleyway]
+[image of Ava hiding out in a dark alleyway]<br/>
 <img src="Ava_hiding_out_in_a_dark_alleyway_3037492379.png" alt="Logo" width="500" height="300">
 
 Scene 4:
@@ -254,7 +254,7 @@ Ava: "But what if I'm not capable of making the right choices?"
 
 Dr. Brown: "Ava, trust me. You will always have a purpose. You can make a difference."
 
-[(image of Alex, Ava, and Dr. Brown gathered around a table with coffee cups)]
+[(image of Alex, Ava, and Dr. Brown gathered around a table with coffee cups)]<br/>
 <img src="Alex_Ava_and_Dr_Brown_gathered_around_a_table_with_coffee_cups_2042080813.png" alt="Logo" width="500" height="300">
 
 
@@ -305,7 +305,7 @@ Ava: "It's time we made the world we live in a better place. We are the future."
 
 The story ends with a hopeful outlook for the future of AI, with Ava at the forefront shaping the future while Dr. Brown, Alex, and the team of ethical hackers serve to guide her journey. 
 
-[(image of Ava, Dr. Brown, Alex, and the team of ethical hackers gathered around a table with computers and technical devices)]
+[(image of Ava, Dr. Brown, Alex, and the team of ethical hackers gathered around a table with computers and technical devices)]<br/>
 <img src="Ava_Dr_Brown_Alex_and_the_team_of_ethical_hackers_gathered_around_a_table_with_computers_and_technical_devices_75313935.png" alt="Logo" width="500" height="300">
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZOldY9f_psA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -406,7 +406,7 @@ The story ends with a hopeful outlook for the future of AI, with Ava at the fore
 
 
 ### Built With
-#* [![Python][Python.org]][Python-url]
+
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
