@@ -397,7 +397,7 @@ The story ends with a hopeful outlook for the future of AI, with Ava at the fore
 
 
 ### Built With
-* [![Python][Python.org]][Python-url]
+#* [![Python][Python.org]][Python-url]
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
